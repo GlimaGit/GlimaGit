@@ -2,7 +2,7 @@
 
 ## Public information
 
-My name is Gabriel Lima. I currently live in São Paulo, Brazil. 
+Welcome! My name is Gabriel Lima. I currently live in São Paulo, Brazil. 
 System Analysis student 💻 . Coffe lover ☕ . Corinthians fan 😎
 
 I'm currently unemployed.
