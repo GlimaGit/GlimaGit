@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋, I am Gabriel
 
-<!--
-**GlimaGit/GlimaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public information
 
-Here are some ideas to get you started:
+My name is Gabriel Lima. I currently live in São Paulo, Brazil. 
+System Analysis student 💻.. Coffe lover. Corinthians fan 😎.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently unemployed.
+I'm learning at the moment **Javascript**, **PHP**, **ReactJS**
+
+## About me
+
+* **Name**: Gabriel Lima
+* **Age**: 19
+* **Stack**: Full Stack Developer
+* **University**: Instituto Federal de São Paulo (IFSP)
