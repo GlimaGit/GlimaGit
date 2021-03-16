@@ -10,7 +10,6 @@ I'm learning at the moment **Javascript**, **PHP**, **ReactJS**
 
 ## About me
 
-* **Name**: Gabriel Lima
 * **Age**: 19
 * **Stack**: Full Stack Developer
 * **University**: Instituto Federal de São Paulo (IFSP)
