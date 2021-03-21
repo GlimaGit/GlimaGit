@@ -15,3 +15,8 @@ I'm learning at the moment **Javascript**, **PHP**, **ReactJS**
 * **Age**: 19
 * **Stack**: Full Stack Developer
 * **University**: Instituto Federal de São Paulo (IFSP)
+
+
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriells801@gmail.com)](mailto:gabriells801@gmail.com)
