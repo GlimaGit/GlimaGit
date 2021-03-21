@@ -20,3 +20,5 @@ I'm learning at the moment **Javascript**, **PHP**, **ReactJS**
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriells801@gmail.com)](mailto:gabriells801@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gabriel-lsoares](www.linkedin.com/in/gabriel-lsoares)
