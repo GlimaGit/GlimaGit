@@ -4,11 +4,11 @@
 
 Welcome! My name is Gabriel Lima. I currently live in São Paulo, Brazil. 
 
-System Analysis student 💻 
+-System Analysis student 💻 
 
-I'm currently unemployed.
+-I'm currently unemployed.
 
-I'm learning at the moment **Javascript**, **PHP**, **ReactJS**
+-I'm learning at the moment **Javascript**, **PHP**, **ReactJS**
 
 ## About me
 
