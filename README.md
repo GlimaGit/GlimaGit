@@ -4,9 +4,9 @@
 
 Welcome! My name is Gabriel Lima. I currently live in São Paulo, Brazil. 
 
-- System Analysis student 💻 
+- System Analysis student 💻  
 
-- I'm currently unemployed.
+- I'm currently working at SignoWeb.
 
 - I'm learning at the moment **Javascript**, **PHP**, **ReactJS**
 
