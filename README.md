@@ -8,7 +8,7 @@ Welcome! My name is Gabriel Lima. I currently live in São Paulo, Brazil.
 
 - I'm currently unemployed.
 
-- I'm learning at the moment **Javascript**, **PHP**, **Laravel**, **ReactJS**, **ReactJS**.
+- I'm learning at the moment **Javascript**, **PHP**, **Laravel**, **ReactJS**, **React Native**.
 
 ## About me
 
