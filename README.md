@@ -6,7 +6,7 @@ Welcome! My name is Gabriel Lima. I currently live in São Paulo, Brazil.
 
 - System Analysis student 💻 
 
-- I'm currently unemployed.
+- I currently work at Diebold Nixdorf.
 
 - I'm learning at the moment  **PHP**, **Laravel**, **React.js**, **Next.js**, **React Native**, **Node.js**
 
