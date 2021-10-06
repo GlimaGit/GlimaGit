@@ -12,7 +12,7 @@ Welcome! My name is Gabriel Lima. I currently live in São Paulo, Brazil.
 
 ## About me
 
-* **Age**: 19
+* **Age**: 20
 * **Stack**: Full Stack Developer
 * **University**: Instituto Federal de São Paulo (IFSP)
 
