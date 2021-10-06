@@ -6,7 +6,7 @@ Welcome! My name is Gabriel Lima. I currently live in São Paulo, Brazil.
 
 - System Analysis student 💻 
 
-- I currently work at Diebold Nixdorf.
+- I'm Software QA Intern at Diebold Nixdorf.
 
 - I'm learning at the moment  **PHP**, **Laravel**, **React.js**, **Next.js**, **React Native**, **Node.js**
 
