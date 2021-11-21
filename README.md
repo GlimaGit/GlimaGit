@@ -12,7 +12,7 @@ I currently live in São Paulo, Brazil.
 ## About me
 
 * **Age**: 20
-* **Stack**: Full Stack Developer
+* **Stack**: Full Stack Developer and SQA Analyst
 * **University**: Instituto Federal de São Paulo (IFSP)
 
 
