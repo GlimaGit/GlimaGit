@@ -5,15 +5,17 @@
 Welcome! My name is Gabriel Lima. 
 I currently live in São Paulo, Brazil. 
 
-- System Analysis student 💻 
-- I'm Software QA Intern at Diebold Nixdorf.
+- Data Science & Analytics student 💻
+- Machine Learning enthusiast
+- I'm SQA Analyst at Diebold Nixdorf.
 
 
 ## About me
 
-* **Age**: 20
+* **Age**: 22
 * **Stack**: Full Stack Developer and SQA Analyst
-* **University**: Instituto Federal de São Paulo (IFSP)
+* **University**: System Analysis - Instituto Federal de São Paulo (IFSP)
+* **MBA: Data Science & Analytics - Universidade de São Paulo (USP)
 
 
 ## Contact
