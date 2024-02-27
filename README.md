@@ -15,7 +15,7 @@ I currently live in São Paulo, Brazil.
 * **Age**: 22
 * **Stack**: Full Stack Developer and SQA Analyst
 * **University**: System Analysis - Instituto Federal de São Paulo (IFSP)
-* **MBA: Data Science & Analytics - Universidade de São Paulo (USP)
+* **MBA**: Data Science & Analytics - Universidade de São Paulo (USP)
 
 
 ## Contact
