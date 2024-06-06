@@ -7,7 +7,7 @@ I currently live in São Paulo, Brazil.
 
 - Data Science & Analytics student 💻
 - Machine Learning enthusiast
-- I'm SQA Analyst at Diebold Nixdorf.
+- I'm SQA Engineer at Diebold Nixdorf.
 
 
 ## About me
