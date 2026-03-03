@@ -7,12 +7,12 @@ I currently live in São Paulo, Brazil.
 
 - Data Science & Analytics student 💻
 - Machine Learning enthusiast
-- I'm SQA Engineer at Diebold Nixdorf.
+- I'm SDET at Diebold Nixdorf.
 
 
 ## About me
 
-* **Age**: 22
+* **Age**: 24
 * **Stack**: Full Stack Developer and SQA Analyst
 * **University**: System Analysis - Instituto Federal de São Paulo (IFSP)
 * **MBA**: Data Science & Analytics - Universidade de São Paulo (USP)
